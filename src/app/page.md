@@ -26,7 +26,7 @@ Scope321 tilbyr fullstendig fleksibilitet så du kan sørge for at tallene blir 
 
 ## Quick start
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
+Registrer deg på [app.scope321.com](https://app.scope321.com) om du ikke allerede har gjort det. Last opp en SAF-T fil på velkomstskjermen.
 
 ### Installing dependencies
 
