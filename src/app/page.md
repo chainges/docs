@@ -1,22 +1,26 @@
 ---
-title: Getting started
+title: Klimaregnskap 321
 ---
 
-Learn how to get CacheAdvance set up in your project in under thirty minutes or it's free. {% .lead %}
+Lær hvordan du lager et klima- og energiregnskap med Scope321. Og ikke nok med det! En rapport får du også med som bonus.{% .lead %}
 
 {% quick-links %}
 
-{% quick-link title="Installation" icon="installation" href="/" description="Step-by-step guides to setting up your system and installing the library." /%}
+{% quick-link title="Last inn data" icon="installation" href="/docs/data-inn" description="Her får du vite hvordan Scope321 kan få data inn i systemet." /%}
 
-{% quick-link title="Architecture guide" icon="presets" href="/" description="Learn how the internals work and contribute." /%}
+{% quick-link title="Scopes guide" icon="presets" href="/docs/klimaregnskap" description="Lær deg hva de forskjellige 'scopes' eller 'omfang' er iht. GHG-protokollen. Grunnlaget for et hvert klimaregnskap." /%}
 
-{% quick-link title="Plugins" icon="plugins" href="/" description="Extend the library with third-party plugins or write your own." /%}
+{% quick-link title="Jobbe med tallene" icon="lightbulb" href="/" description="Automatikk er vel og bra, men det finnes fortsatt noen grenser for hva som kan gjøres automatisk. Her får du innføring i hvordan du bør kvalitetsikre data i detalj." /%}
 
-{% quick-link title="API reference" icon="theming" href="/" description="Learn to easily customize and modify your app's visual design to fit your brand." /%}
+{% quick-link title="Scope321 rapport" icon="theming" href="/" description="Lær hvordan du kan lage din egen klima- og enegirapport basert på tallene i systemet." /%}
 
 {% /quick-links %}
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste.
+Scope321 er en fullverdig plattform for klima- og energirapportering. Systemet gjør mye av jobben for deg automatisk om du laster opp ditt regnskap i SAF-T format. Vi leverer følgende:
+
+> Et bedre klimaregnskap! Raskere!
+
+Scope321 tilbyr fullstendig fleksibilitet så du kan sørge for at tallene blir så bra som du ønsker og ikke kun så bra som systemet tillater.
 
 ---
 

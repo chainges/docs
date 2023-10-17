@@ -13,12 +13,13 @@ const code = `export default {
   strategy: 'predictive',
   engine: {
     cpus: 12,
+    nskp: 4,
     backups: ['./storage/cache.wtf'],
   },
 }`
 
 const tabs = [
-  { name: 'cache-advance.config.js', isActive: true },
+  { name: 'engine-scope321.config.js', isActive: true },
   { name: 'package.json', isActive: false },
 ]
 
@@ -35,7 +36,7 @@ function TrafficLightsIcon(props: React.ComponentPropsWithoutRef<'svg'>) {
 export function Hero() {
   return (
     <div className="overflow-hidden bg-slate-900 dark:-mb-32 dark:mt-[-4.75rem] dark:pb-32 dark:pt-[4.75rem]">
-      <div className="py-16 sm:px-2 lg:relative lg:px-0 lg:py-20">
+      <div className="py-16 sm:px-2 lg:relative lg:px-0 xl:py-20 shadow-md shadow-sky-600/30">
         <div className="mx-auto grid max-w-2xl grid-cols-1 items-center gap-x-8 gap-y-16 px-4 lg:max-w-8xl lg:grid-cols-2 lg:px-8 xl:gap-x-16 xl:px-12">
           <div className="relative z-10 md:text-center lg:text-left">
             <Image
@@ -48,18 +49,15 @@ export function Hero() {
               priority
             />
             <div className="relative">
-              <p className="inline bg-gradient-to-r from-indigo-200 via-sky-400 to-indigo-200 bg-clip-text font-display text-5xl tracking-tight text-transparent">
-                Never miss the cache again.
+              <p className="inline bg-gradient-to-r from-teal-200 via-sky-400 to-teal-300 bg-clip-text font-display text-5xl text-transparent">
+                Få orden på klima- og energiregnskapet.
               </p>
               <p className="mt-3 text-2xl tracking-tight text-slate-400">
-                Cache every single thing your app could ever do ahead of time,
-                so your code never even has to run at all.
+                Et godt klima- og energiregnskap gjør deg til en attraktiv som leverandør. Det er ingen tid å miste om vi skal levere på klimamålene. Vær en del av løsningen.
               </p>
               <div className="mt-8 flex gap-4 md:justify-center lg:justify-start">
-                <Button href="/">Get started</Button>
-                <Button href="/" variant="secondary">
-                  View on GitHub
-                </Button>
+                {/* <Button href="/">Kom i gang nå</Button> */}
+   
               </div>
             </div>
           </div>

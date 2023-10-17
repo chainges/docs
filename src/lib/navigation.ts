@@ -1,25 +1,20 @@
 export const navigation = [
   {
-    title: 'Introduction',
+    title: 'Introduksjon',
     links: [
-      { title: 'Getting started', href: '/' },
-      { title: 'Installation', href: '/docs/installation' },
+      { title: 'Kom i gang', href: '/' },
+      { title: 'Last inn data', href: '/docs/data-inn' },
+      { title: 'Opprette selskap', href: '/docs/opprette-selskap' },
     ],
   },
   {
-    title: 'Core concepts',
+    title: 'Klimaregnskap',
     links: [
-      { title: 'Understanding caching', href: '/docs/understanding-caching' },
-      {
-        title: 'Predicting user behavior',
-        href: '/docs/predicting-user-behavior',
-      },
-      { title: 'Basics of time-travel', href: '/docs/basics-of-time-travel' },
-      {
-        title: 'Introduction to string theory',
-        href: '/docs/introduction-to-string-theory',
-      },
-      { title: 'The butterfly effect', href: '/docs/the-butterfly-effect' },
+      { title: 'Forstå klimaregnskap', href: '/docs/klimaregnskap' },
+      { title: 'GHG-protokollen', href: '/docs/ghg-protokollen' },
+      { title: 'Scope 1', href: '/docs/scope1' },
+      { title: 'Scope 2', href: '/docs/scope2' },
+      { title: 'Scope 3', href: '/docs/scope3' },      
     ],
   },
   {

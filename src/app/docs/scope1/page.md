@@ -1,9 +1,9 @@
 ---
-title: Predicting user behavior
+title: Scope 1
 nextjs:
   metadata:
-    title: Predicting user behavior
-    description: Quidem magni aut exercitationem maxime rerum eos.
+    title: Omfang 1
+    description: Hva er scope 1 i et klimaregnskap.
 ---
 
 Quasi sapiente voluptates aut minima non doloribus similique quisquam. In quo expedita ipsum nostrum corrupti incidunt. Et aut eligendi ea perferendis.
