@@ -1,18 +1,29 @@
 ---
-title: Testing
+title: Manuelle transaksjoner
 nextjs:
   metadata:
-    title: Testing
-    description: Quidem magni aut exercitationem maxime rerum eos.
+    title: Manuelle transaksjoner
+    description: Hvordan man legger til nye transaksjoner
 ---
 
-Quasi sapiente voluptates aut minima non doloribus similique quisquam. In quo expedita ipsum nostrum corrupti incidunt. Et aut eligendi ea perferendis.
+I Scope321 kan man føre transaksjoner manuelt også. Har man veldig få transaksjoner så kan dette være en løsning. Ellers så vil manuelle transaksjoner være føringer som ikke har et spor i regnskapet. Det kan være flere årskaer til det. De viktigste er:
+
+1. Prosessutslipp
+2. Pendling for ansatte
+3. Nedstrøms Scope 3 utslipp hvis man vil rapportere på det
+4. Reiseregninger og bilgodtgjørelse som er ført som lønn i regnskapet
 
 ---
 
-## Quis vel iste dicta
+## Hvordan legge til transaksjoner
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
+Under riktig Scope finner du en 'Legg til' knapp øverst til venstre. Trykk på den og følgende dialog vil åpne seg.
+![Legg til transaksjon](https://firebasestorage.googleapis.com/v0/b/scope321-docs-assets/o/add-transaction.png?alt=media&token=4c5ec9df-f608-411d-9610-b24d37c8b701)
+Her har du 3 valg:
+
+1. Utslippsregistrering
+2. Kjøp med kjent leverandør og beløp
+3. Transaksjon med kjent utslipp
 
 ### Et pariatur ab quas
 

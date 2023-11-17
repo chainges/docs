@@ -18,26 +18,23 @@ export const navigation = [
     ],
   },
   {
-    title: 'Advanced guides',
+    title: 'Jobbe med tallene',
     links: [
-      { title: 'Writing plugins', href: '/docs/writing-plugins' },
-      { title: 'Neuralink integration', href: '/docs/neuralink-integration' },
-      { title: 'Temporal paradoxes', href: '/docs/temporal-paradoxes' },
-      { title: 'Testing', href: '/docs/testing' },
-      { title: 'Compile-time caching', href: '/docs/compile-time-caching' },
-      {
-        title: 'Predictive data generation',
-        href: '/docs/predictive-data-generation',
-      },
+      { title: 'Fremgangsmåte', href: '/docs/fremgangsmate' },
+      { title: 'Leverandører', href: '/docs/writing-plugins' },
+      { title: 'Transaksjoner', href: '/docs/neuralink-integration' },
+      { title: 'Detaljert føring', href: '/docs/temporal-paradoxes' },
+
+      { title: 'Manuelle transaksjoner', href: '/docs/manuelle-transaksjoner' },
     ],
   },
   {
-    title: 'API reference',
+    title: 'Rapportering',
     links: [
       { title: 'CacheAdvance.predict()', href: '/docs/cacheadvance-predict' },
       { title: 'CacheAdvance.flush()', href: '/docs/cacheadvance-flush' },
       { title: 'CacheAdvance.revert()', href: '/docs/cacheadvance-revert' },
-      { title: 'CacheAdvance.regret()', href: '/docs/cacheadvance-regret' },
+      { title: 'Reduksjonseksempler', href: '/docs/reduksjon' },
     ],
   },
   {

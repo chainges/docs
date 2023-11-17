@@ -1,18 +1,19 @@
 ---
-title: Compile-time caching
+title: Fremgangsmåte
 nextjs:
   metadata:
-    title: Compile-time caching
-    description: Quidem magni aut exercitationem maxime rerum eos.
+    title: Fremgangsmåte
+    description: Hvilke steg som man bør gå igjennom for å sikre kvalitet.
 ---
 
-Quasi sapiente voluptates aut minima non doloribus similique quisquam. In quo expedita ipsum nostrum corrupti incidunt. Et aut eligendi ea perferendis.
+Når du har lastet in regnskapsdata i systemet så vil vi anbefale følgende fremgangsmåte for å sikre at alle tall er så gode som mulig. Det er ikke mulig å gjøre et klimaregnskap 100% automatisk ennå, men vi jobber på saken - sammen.
 
 ---
 
-## Quis vel iste dicta
+## First things first
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
+1. Leverandørgjennomgang
+2. Transaksjoner - Scope 1, 2, og 3
 
 ### Et pariatur ab quas
 
