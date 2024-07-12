@@ -31,8 +31,8 @@ export const navigation = [
   {
     title: 'Rapportering',
     links: [
-      { title: 'CacheAdvance.predict()', href: '/docs/cacheadvance-predict' },
-      { title: 'CacheAdvance.flush()', href: '/docs/cacheadvance-flush' },
+      { title: 'Oversikt', href: '/docs/oversikt' },
+      { title: 'Rapporteringsalternativer', href: '/docs/rapporteringsalternativer' },
       { title: 'CacheAdvance.revert()', href: '/docs/cacheadvance-revert' },
       { title: 'Reduksjonseksempler', href: '/docs/reduksjon' },
     ],
