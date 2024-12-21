@@ -29,14 +29,14 @@ Nesten. ESG er et rapporteringsrammeverk som har med de miljømessige og sosiale
 
 **CSRD** (Corporate Sustainability Reporting Directive) er et EU-direktiv som krever at store selskaper rapporterer om bærekraft. Dette direktivet erstatter det tidligere NFRD (Non-Financial Reporting Directive) og utvider kravene til flere selskaper, inkludert små og mellomstore bedrifter som er børsnoterte1.
 
-**ESRS** (European Sustainability Reporting Standards) er de standardene som selskaper må følge når de rapporterer i henhold til CSRD. Disse standardene dekker ulike bærekraftstemaer som klimaendringer, forurensning, vann og marine ressurser, naturmangfold, ressursbruk, og sosiale forhold1.
+**ESRS** (European Sustainability Reporting Standards) er de standardene som selskaper må følge når de rapporterer i henhold til CSRD. Disse standardene dekker ulike bærekraftstemaer som klimaendringer, forurensning, vann og marine ressurser, naturmangfold, ressursbruk, og sosiale forhold.
 
 Dette betyr det for bedrifter i Norge:
 
 Økt rapporteringskrav: Norske bedrifter må nå rapportere mer detaljert om sine bærekraftstiltak og -resultater. Dette inkluderer både miljømessige, sosiale og styringsmessige aspekter (ESG).
 Trinnvis innføring: Kravene innføres gradvis fra 2024, med full implementering for alle store selskaper innen 20262.
 Konkurransefortrinn: Bedrifter som tilpasser seg raskt kan oppnå konkurransefortrinn ved å vise transparens og ansvarlighet overfor investorer og kunder.
-Økt administrativ byrde: Implementeringen av disse rapporteringskravene kan medføre økte kostnader og administrativt arbeid for bedriftene2.
+Økt administrativ byrde: Implementeringen av disse rapporteringskravene kan medføre økte kostnader og administrativt arbeid for bedriftene.
 
 ```js
 /** @type {import('@tailwindlabs/lorem').ipsum} */
