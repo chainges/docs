@@ -2,6 +2,17 @@ import { Callout } from '@/components/Callout'
 import { QuickLink, QuickLinks } from '@/components/QuickLinks'
 
 const tags = {
+  'external-link': {
+    render: ({ href, children }) => (
+      <a href={href} target="_blank" rel="noopener noreferrer">
+        {children}
+      </a>
+    ),
+    attributes: {
+      href: { type: String },
+    },
+  },
+
   callout: {
     attributes: {
       title: { type: String },

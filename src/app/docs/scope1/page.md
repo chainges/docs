@@ -1,74 +1,56 @@
 ---
-title: Scope 1
+title: Hva er Scope 1 i et klimaregnskap?
 nextjs:
   metadata:
     title: Omfang 1
     description: Hva er scope 1 i et klimaregnskap.
 ---
 
-Quasi sapiente voluptates aut minima non doloribus similique quisquam. In quo expedita ipsum nostrum corrupti incidunt. Et aut eligendi ea perferendis.
+## Kort forklart
+
+Scope 1 omfatter direkte utslipp av klimagasser som kommer fra kilder som en bedrift selv eier eller kontrollerer. Dette inkluderer utslipp fra drivstofforbruk, prosesser, og andre aktiviteter som skjer direkte innenfor bedriftens grenser.
+
+Med andre ord: Scope 1 er de utslippene bedriften selv har full kontroll over, og som skjer fysisk på deres eiendom eller via deres utstyr.
 
 ---
 
-## Quis vel iste dicta
+## Eksempler på Scope 1-utslipp
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
+### 1. **Forbrenning av fossilt drivstoff**
 
-### Et pariatur ab quas
+- Utslipp fra kjøretøy som eies av bedriften (f.eks. lastebiler, firmabiler, varebiler).
+- Oppvarming av bygninger med olje, gass eller kull.
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+### 2. **Industrielle prosesser**
 
-```js
-/** @type {import('@tailwindlabs/lorem').ipsum} */
-export default {
-  lorem: 'ipsum',
-  dolor: ['sit', 'amet', 'consectetur'],
-  adipiscing: {
-    elit: true,
-  },
-}
-```
+- Produksjonsprosesser som frigjør klimagasser, f.eks. sementproduksjon eller kjemisk produksjon.
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
+### 3. **Utslipp fra kjøle- og klimaanlegg**
 
-### Natus aspernatur iste
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
+- Lekkasjer av kjølemedium (f.eks. HFK-gasser) fra kjøleanlegg og aircondition-systemer.
 
 ---
 
-## Quos porro ut molestiae
+## Hvorfor er Scope 1 viktig?
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
-
-### Voluptatem quas possimus
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
-
-### Id vitae minima
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
+Scope 1 er viktig fordi det gir bedrifter en tydelig oversikt over utslippene de selv kan påvirke direkte. Ved å redusere disse utslippene kan man oppnå store klimafordeler og ofte også kostnadsbesparelser, for eksempel ved å gå over til elektriske kjøretøy eller mer effektive varmesystemer.
 
 ---
 
-## Vitae laborum maiores
+## Hvordan kan bedrifter redusere Scope 1-utslipp?
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
+### 1. Overgang til fornybare energikilder
 
-### Corporis exercitationem
+- Erstatt fossilt drivstoff med biogass eller elektrisitet.
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+### 2. Optimalisering av prosesser
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
+- Forbedre energieffektiviteten i produksjonsprosesser.
 
-### Reprehenderit magni
+### 3. Reduksjon av kjøle- og klimautslipp
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+- Vedlikeholde og oppgradere kjøle- og klimaanlegg for å minimere lekkasjer.
 
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
+---
+
+Scope 1 er et sentralt steg på veien mot en mer bærekraftig virksomhet, fordi det handler om utslipp som ligger direkte i bedriftens hender. Ved å ta grep her kan bedriften ta en aktiv rolle i klimaarbeidet.

@@ -10,66 +10,21 @@ Når du har lastet in regnskapsdata i systemet så vil vi anbefale følgende fre
 
 ---
 
-## First things first
+## Leverandørgjennomgang
 
-1. Leverandørgjennomgang
-2. Transaksjoner - Scope 1, 2, og 3
+Det første man bør gjøre er å sjekke alle leverandører til selskapet. Via SAF-T får selskapet lastet inn alle leverandører som er registrert i regnskapsprogrammet. Det kan være mange da tidligere leverandører som ikke lenger er aktive ikke slettes. Derfor er det greit å bruke filterende i datatabellen til å finne de viktigste leverandørene.
 
-### Et pariatur ab quas
+### Filter
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+Alle kolonnene i datatabellene kan brukes som filter og det skal være lett å kjenne igjen måten å gjøre dette på da det er helt likt det vi kjenner fra Excel. Det er mulighet til å sortere og søke etter spesielle verdier basert på datatypen i gjeldende kolonne. Følgende viktige kolonner finner du i leverandørtabellen.
 
-```js
-/** @type {import('@tailwindlabs/lorem').ipsum} */
-export default {
-  lorem: 'ipsum',
-  dolor: ['sit', 'amet', 'consectetur'],
-  adipiscing: {
-    elit: true,
-  },
-}
-```
+1. **Leverandør Navn**
+2. **Nace Kode**
+3. **Industri**
+4. **Status**
+5. **Transaksjoner**
+6. **Totale Utslipp**
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
-
-### Natus aspernatur iste
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
-
----
-
-## Quos porro ut molestiae
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
-
-### Voluptatem quas possimus
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
-
-### Id vitae minima
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
-
----
-
-## Vitae laborum maiores
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
-
-### Corporis exercitationem
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
-
-### Reprehenderit magni
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
+Ved å bruke _Status_ kolonnen kan du finne alle leverandører som systemet ikke har noe data på utover det som kommer fra regnskapsystemet. Velg '3' og alle disse vil vises med rødt flagg. Videre kan du sortere _Totale Utslipp_ størst til minst for å se om noen av disse leverandørene har et stort utslipp. Her kan du således redigere de som du mener trenger redigering. Alle de største bør redigeres manuelt.
+![Suppliers](https://cdn.filestackcontent.com/h0KB27hStuGxbELysmMQ)
+_Leverandørtabellen filtrert og sortert_

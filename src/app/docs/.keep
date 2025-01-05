@@ -1,0 +1,1 @@
+{% external-link href="https://example.com" %}Open in a new tab{% /external-link %}

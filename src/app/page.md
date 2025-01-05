@@ -10,7 +10,7 @@ Lær hvordan du lager et klima- og energiregnskap med Scope321. Og ikke nok med 
 
 {% quick-link title="Scopes guide" icon="presets" href="/docs/klimaregnskap" description="Lær deg hva de forskjellige 'scopes' eller 'omfang' er iht. GHG-protokollen. Grunnlaget for et hvert klimaregnskap." /%}
 
-{% quick-link title="Jobbe med tallene" icon="lightbulb" href="/" description="Automatikk er vel og bra, men det finnes fortsatt noen grenser for hva som kan gjøres automatisk. Her får du innføring i hvordan du bør kvalitetsikre data i detalj." /%}
+{% quick-link title="Jobbe med tallene" icon="lightbulb" href="/docs/fremgangsmate" description="Automatikk er vel og bra, men det finnes fortsatt noen grenser for hva som kan gjøres automatisk. Her får du innføring i hvordan du bør kvalitetsikre data i detalj." /%}
 
 {% quick-link title="Scope321 rapport" icon="theming" href="/" description="Lær hvordan du kan lage din egen klima- og enegirapport basert på tallene i systemet." /%}
 

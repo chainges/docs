@@ -1,74 +1,101 @@
 ---
-title: Introdution to string theory
+title: Hva er Scope 3 i et klimaregnskap?
 nextjs:
   metadata:
-    title: Introdution to string theory
-    description: Quidem magni aut exercitationem maxime rerum eos.
+    title: Hva er Scope 3 i et klimaregnskap?
+    description: Scope 3 dekker alle andre indirekte utslipp i en bedrifts verdikjede
 ---
 
-Quasi sapiente voluptates aut minima non doloribus similique quisquam. In quo expedita ipsum nostrum corrupti incidunt. Et aut eligendi ea perferendis.
+## Kort forklart
 
----
+Scope 3 dekker alle andre indirekte utslipp i en bedrifts verdikjede som ikke inngår i Scope 1 eller Scope 2. Dette inkluderer både utslipp fra oppstrøms aktiviteter (leverandører, transport, innkjøp) og nedstrøms aktiviteter (bruk og avfallshåndtering av produkter).
 
-## Quis vel iste dicta
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
-
-### Et pariatur ab quas
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-```js
-/** @type {import('@tailwindlabs/lorem').ipsum} */
-export default {
-  lorem: 'ipsum',
-  dolor: ['sit', 'amet', 'consectetur'],
-  adipiscing: {
-    elit: true,
-  },
-}
-```
-
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
-
-### Natus aspernatur iste
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
+Med andre ord: Scope 3 er de utslippene som skjer som en konsekvens av bedriftens aktiviteter, men som ikke skjer direkte under bedriftens kontroll.
 
 ---
 
-## Quos porro ut molestiae
+## Oppstrømskategorier i Scope 3
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
+### 1. **Kjøpte varer og tjenester**
 
-### Voluptatem quas possimus
+- Utslipp knyttet til produksjon av varer og tjenester som bedriften kjøper inn.
+- **Eksempler:** Produksjon av råmaterialer, IT-utstyr, eller konsulenttjenester.
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+### 2. **Kapitalvarer**
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
+- Utslipp fra produksjonen av større investeringer som bygninger, maskiner og utstyr.
+- **Eksempler:** En ny fabrikk eller maskiner brukt i produksjonen.
 
-### Id vitae minima
+### 3. **Drivstoff og energi (ikke inkludert i Scope 1 og 2)**
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+- Utslipp fra utvinning, produksjon og transport av drivstoff og energi som bedriften bruker.
+- **Eksempler:** Utvinning og raffinering av olje brukt til egne kjøretøy.
 
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
+### 4. **Transport og distribusjon (oppstrøms)**
+
+- Utslipp fra transport av varer og materialer i verdikjeden, før de når bedriften.
+- **Eksempler:** Transport av råvarer fra leverandører til bedriftens lager.
+
+### 5. **Avfall fra operasjoner**
+
+- Utslipp knyttet til behandling og håndtering av avfall som bedriften genererer.
+- **Eksempler:** Deponi eller forbrenning av produksjonsavfall.
+
+### 6. **Forretningsreiser**
+
+- Utslipp knyttet til reiser som ansatte foretar for jobbformål.
+- **Eksempler:** Flyreiser, togreiser eller bruk av hotell.
+
+### 7. **Pendling til jobb**
+
+- Utslipp fra ansattes daglige reiser mellom hjem og arbeidssted.
+- **Eksempler:** Bruk av privatbil, kollektivtransport eller sykling.
+
+### 8. **Leasede eiendeler (oppstrøms)**
+
+- Utslipp fra drift av eiendeler som bedriften leaser fra andre, men som ikke dekkes i Scope 1 eller Scope 2.
+- **Eksempler:** Leasede kjøretøy eller kontorutstyr.
 
 ---
 
-## Vitae laborum maiores
+## Nedstrømskategorier i Scope 3
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
+Nedstrømskategoriene dekker utslipp som skjer etter at produktet har forlatt bedriften. Disse inkluderer:
 
-### Corporis exercitationem
+1. Transport og distribusjon (nedstrøms).
+2. Behandling av solgte produkter.
+3. Bruk av solgte produkter.
+4. Avhending av solgte produkter.
+5. Driften av leasede eiendeler (nedstrøms).
+6. Franchisevirksomhet.
+7. Investeringer.
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+---
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
+## Hvorfor er Scope 3 viktig?
 
-### Reprehenderit magni
+Scope 3 utgjør ofte den største andelen av en bedrifts totale utslipp og gir en helhetlig forståelse av klimafotavtrykket. Det er også viktig for å identifisere områder hvor samarbeid med leverandører og kunder kan bidra til betydelige utslippskutt.
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+---
 
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
+## Hvordan redusere Scope 3-utslipp?
+
+### 1. Samarbeid med leverandører
+
+- Velg leverandører som har lavere utslipp i sin produksjon.
+
+### 2. Sirkulær økonomi
+
+- Gjenbruk, resirkulering og redesign av produkter for å redusere avfall og materialbruk.
+
+### 3. Effektiv transport
+
+- Optimaliser transport- og distribusjonskjeder for å redusere utslipp.
+
+### 4. Ansattengasjement
+
+- Oppfordre ansatte til miljøvennlige reisealternativer, som sykling eller bruk av kollektivtransport.
+
+---
+
+Scope 3 gir en fullstendig oversikt over utslipp i hele verdikjeden, både oppstrøms og nedstrøms. Selv om det kan være krevende å kartlegge, er dette en nøkkel til bærekraftig drift og klimakutt.

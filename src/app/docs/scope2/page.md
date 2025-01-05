@@ -1,74 +1,87 @@
 ---
-title: Basics of time-travel
+title: Hva er Scope 2 i et klimaregnskap?
 nextjs:
   metadata:
-    title: Basics of time-travel
-    description: Quidem magni aut exercitationem maxime rerum eos.
+    title: Hva er Scope 2 i et klimaregnskap?
+    description: Scope 2 handler om klimagassutslippene som er knyttet til produksjonen av energien bedriften bruker.
 ---
 
-Quasi sapiente voluptates aut minima non doloribus similique quisquam. In quo expedita ipsum nostrum corrupti incidunt. Et aut eligendi ea perferendis.
+## Kort forklart
 
----
+Scope 2 omfatter indirekte utslipp fra energiforbruket til en bedrift, spesielt knyttet til kjøpt elektrisitet, fjernvarme eller fjernkjøling. Disse utslippene skjer ikke direkte i bedriftens lokaler, men hos leverandørene av energien.
 
-## Quis vel iste dicta
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
-
-### Et pariatur ab quas
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-```js
-/** @type {import('@tailwindlabs/lorem').ipsum} */
-export default {
-  lorem: 'ipsum',
-  dolor: ['sit', 'amet', 'consectetur'],
-  adipiscing: {
-    elit: true,
-  },
-}
-```
-
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
-
-### Natus aspernatur iste
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
+Med andre ord: Scope 2 handler om klimagassutslippene som er knyttet til produksjonen av energien bedriften bruker.
 
 ---
 
-## Quos porro ut molestiae
+## Forskjellige tilnærminger til Scope 2
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
+### 1. **Lokasjonsbasert**
 
-### Voluptatem quas possimus
+- Beregner utslipp basert på den gjennomsnittlige utslippsfaktoren for strømnettet i regionen eller landet der bedriften er lokalisert.
+- Reflekterer ikke bedriftens valg av strømleverandør, men viser hvordan strømforbruket påvirker nettet generelt.
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+**Eksempel:** Hvis strømnettet i regionen din har høy andel kullkraft, vil de lokasjonsbaserte utslippene være høye, selv om du har en avtale om grønn strøm.
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
+### 2. **Markedsbasert**
 
-### Id vitae minima
+- Beregner utslipp basert på konkrete avtaler om strømleveranse, som kjøp av fornybar energi eller opprinnelsesgarantier (Guarantees of Origin - GO).
+- Reflekterer bedriftens valg om å støtte fornybar energi, men ikke nødvendigvis hva som fysisk forbrukes.
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+**Eksempel:** Hvis bedriften kjøper strøm med opprinnelsesgaranti fra vindkraft, vil de markedsbaserte utslippene være lave, uavhengig av det lokale strømnettets sammensetning.
 
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
+### 3. **Forbruksbasert**
+
+- Viser det faktiske energiforbruket og utslippene som finner sted på stedet.
+- Baseres på data fra [ElectrisityMaps](https://app.electricitymaps.com/zone/NO), som viser hvor store utslippene er i forskjellige deler av verden.
+
+**Eksempel:** Hvis bedriften har solceller og dekker 30 % av strømforbruket sitt med egenproduksjon, vil dette redusere de forbruksbaserte utslippene direkte.
 
 ---
 
-## Vitae laborum maiores
+## Eksempler på Scope 2-utslipp
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
+### 1. Elektrisitet
 
-### Corporis exercitationem
+- Strømforbruk til maskiner, belysning, og drift av bygninger.
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+### 2. Fjernvarme og fjernkjøling
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
+- Varme eller kjøling levert via eksterne nettverk.
 
-### Reprehenderit magni
+---
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+## Hvorfor er Scope 2 viktig?
 
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
+Scope 2 hjelper bedrifter med å forstå og redusere deres indirekte klimafotavtrykk. Ved å skifte til fornybare energikilder, kan man drastisk redusere Scope 2-utslipp og bidra til overgangen til et bærekraftig energisystem.
+
+---
+
+## Hvordan kan bedrifter redusere Scope 2-utslipp?
+
+### 1. Overgang til fornybar energi
+
+- Kjøp strøm med opprinnelsesgaranti fra sol-, vind- eller vannkraft.
+- Produser egen fornybar energi, f.eks. via solcellepaneler.
+
+### 2. Energieffektivisering
+
+- Reduser energiforbruket ved å oppgradere utstyr og optimalisere drift.
+
+### 3. Valg av fjernvarme/kjøling
+
+- Velg leverandører som bruker fornybare energikilder til fjernvarme og fjernkjøling.
+
+---
+
+## Oppsummering av Scope 2-tilnærminger
+
+| Tilnærming      | Beskrivelse                                                                 | Fordel                                      |
+| --------------- | --------------------------------------------------------------------------- | ------------------------------------------- |
+| Lokasjonsbasert | Basert på gjennomsnittlig utslippsfaktor for regionen.                      | Viser påvirkning på strømnettet generelt.   |
+| Markedsbasert   | Basert på spesifikke avtaler om kjøp av fornybar energi.                    | Reflekterer bedriftens valg av energikilde. |
+| Forbruksbasert  | Kombinasjon av energiforbruk og hva som faktisk forbrukes fysisk på stedet. | Viser de reelle utslippene fra energibruk.  |
+
+---
+
+Scope 2 gir bedriften en mulighet til å redusere indirekte utslipp og ta et tydelig valg om å støtte ren energi, enten gjennom kjøp eller egenproduksjon.

@@ -21,10 +21,9 @@ export const navigation = [
     title: 'Jobbe med tallene',
     links: [
       { title: 'Fremgangsmåte', href: '/docs/fremgangsmate' },
-      { title: 'Leverandører', href: '/docs/writing-plugins' },
-      { title: 'Transaksjoner', href: '/docs/neuralink-integration' },
-      { title: 'Detaljert føring', href: '/docs/temporal-paradoxes' },
-
+      { title: 'Leverandører', href: '/docs/suppliers' },
+      { title: 'Transaksjoner', href: '/docs/transaksjoner' },
+      { title: 'Aktivitetsbasert føring', href: '/docs/detaljert-foering' },
       { title: 'Manuelle transaksjoner', href: '/docs/manuelle-transaksjoner' },
     ],
   },
@@ -32,17 +31,17 @@ export const navigation = [
     title: 'Rapportering',
     links: [
       { title: 'Oversikt', href: '/docs/oversikt' },
-      { title: 'Rapporteringsalternativer', href: '/docs/rapporteringsalternativer' },
-      { title: 'CacheAdvance.revert()', href: '/docs/cacheadvance-revert' },
+      { title: 'Rapporteringsinnhold', href: '/docs/rapporteringsinnhold' },
+      // { title: 'CacheAdvance.revert()', href: '/docs/cacheadvance-revert' },
       { title: 'Reduksjonseksempler', href: '/docs/reduksjon' },
     ],
   },
-  {
-    title: 'Contributing',
-    links: [
-      { title: 'How to contribute', href: '/docs/how-to-contribute' },
-      { title: 'Architecture guide', href: '/docs/architecture-guide' },
-      { title: 'Design principles', href: '/docs/design-principles' },
-    ],
-  },
+  // {
+  //   title: 'Contributing',
+  //   links: [
+  //     { title: 'How to contribute', href: '/docs/how-to-contribute' },
+  //     { title: 'Architecture guide', href: '/docs/architecture-guide' },
+  //     { title: 'Design principles', href: '/docs/design-principles' },
+  //   ],
+  // },
 ]

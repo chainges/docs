@@ -50,6 +50,21 @@ const nodes = {
       },
     },
   },
+  link: {
+    ...defaultNodes.link,
+    attributes: {
+      ...defaultNodes.link.attributes,
+      target: { type: String },
+      rel: { type: String },
+    },
+    transform(node, config) {
+      const attributes = node.transformAttributes(config)
+      if (attributes.target === '_blank') {
+        attributes.rel = 'noopener noreferrer'
+      }
+      return new Tag('a', attributes, node.transformChildren(config))
+    },
+  },
   fence: {
     render: Fence,
     attributes: {

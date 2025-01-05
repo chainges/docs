@@ -24,10 +24,10 @@ const lexend = localFont({
 export const metadata: Metadata = {
   title: {
     template: '%s - Docs',
-    default: 'Scope321 - Care for the climate made easy.',
+    default: 'Scope321 - Bli en miljøleder, helt enkelt.',
   },
   description:
-    'Climate and energy disclosure for the SME market. The easy way to gather data and report on climate',
+    'Klima- og energiregnskap for SMB-markedet. Den enkle måten og beregne og rapportere på klima.',
 }
 
 export default function RootLayout({
