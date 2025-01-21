@@ -7,4 +7,10 @@
   [inert] ::-webkit-scrollbar {
     display: none;
   }
+
+  /* Enhanced contrast for dark mode */
+  .dark .prose .prose-slate {
+    --tw-prose-body: theme('colors.slate.100');
+    --tw-prose-headings: theme('colors.white');
+  }
 }

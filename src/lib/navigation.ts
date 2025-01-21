@@ -36,12 +36,12 @@ export const navigation = [
       { title: 'Reduksjonseksempler', href: '/docs/reduksjon' },
     ],
   },
-  // {
-  //   title: 'Contributing',
-  //   links: [
-  //     { title: 'How to contribute', href: '/docs/how-to-contribute' },
-  //     { title: 'Architecture guide', href: '/docs/architecture-guide' },
-  //     { title: 'Design principles', href: '/docs/design-principles' },
-  //   ],
-  // },
+  {
+    title: 'Bidra til en bedre verden',
+    links: [
+      { title: 'Karbonkreditter', href: '/docs/karbonkreditter' },
+      // { title: 'Architecture guide', href: '/docs/architecture-guide' },
+      // { title: 'Design principles', href: '/docs/design-principles' },
+    ],
+  },
 ]

@@ -22,7 +22,7 @@ Først og fremst bør selskaper ha en klar holdning overfor klima og energibruk.
 
 #### Selskapets klimaforpliktelse
 
-Et hvert selskap bør redegjøre for hvor de står og hvordan de vil forbedre sin virksomhet i fremtiden for å redusere sitt klimautslipp og hvilke målsetninger de har. Dette bør være flere tidfestede konkrete mål på hva man vil få til. ["Science based targets"](https://sciencebasedtargets.org/){:target="\_blank"} er et rammeverk for å sette slike mål i tråd med relevant forskning.
+Et hvert selskap bør redegjøre for hvor de står og hvordan de vil forbedre sin virksomhet i fremtiden for å redusere sitt klimautslipp og hvilke målsetninger de har. Dette bør være flere tidfestede konkrete mål på hva man vil få til. {% external-link href="https://sciencebasedtargets.org/" %}_Science based targets_{% /external-link %} er et rammeverk for å sette slike mål i tråd med relevant forskning.
 
 Klimagassutslippene klassifiseres inn i tre omfang eller _scope_ som forklart tidligere.
 
@@ -40,4 +40,4 @@ Det er ikke alle selskaper som skal eller bør rapportere på nedstrømskategori
 
 #### Energirapportering
 
-Det bør være en krt redegjørelse for hva som er energiforbruksdriverne i virksomheten sammen med forbrukstallene. Det bør også være en beskrivelse av hvordan energiforbruket i virksomheten har utviklet seg over tid og hva som gjøres for å redusre forbruket fremover. Det er også lov å skryte litt av hva som er gjort i året som var og som har ført til redusert forbruk slik tallene viser.
+Det bør være en kort redegjørelse for hva som er energiforbruksdriverne i virksomheten sammen med forbrukstallene. Det bør også være en beskrivelse av hvordan energiforbruket i virksomheten har utviklet seg over tid og hva som gjøres for å redusre forbruket fremover. Det er også lov å skryte litt av hva som er gjort i året som var og som har ført til redusert forbruk slik tallene viser.

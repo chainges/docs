@@ -6,9 +6,9 @@ nextjs:
     description: Aktivitetsdata kan brukes for å få et mer detaljert og korrekt resultat hvis man har bedre aktivitetsdata..
 ---
 
-Aktivitetsdata kan brukes for å få et mer detaljert og korrekt resultat hvis man har bedre aktivitetsdata.
+Aktivitetsdata kan brukes for å få et mer detaljert og korrekt resultat. Dette er utslippsberegninger som er gjort på bakgrunn av faktiske utførte aktiviteter. Dette er et alternativ til å bruke Nace koder som er basert på bransjer og kostnader. Aktivitetsdata anses som bedre kvalitet enn kostnadsdata. Ettersom kostnader varierer med priser og valutakurser. For å beregne utslippene trenger du informasjon om aktiviteten og hvilke innsatsfaktorer som er involvert i aktiviteten. Når du har åpnet en eller flere transaksjoner for redigering kan du klikke på knappen nederst til venstre for å få opp flølgende skjermbilde. Her kan du beregne utslipp basert på aktivitetsdata. Her er det flere muligheter for hvert _Scope_ og scope 3 oppstrømskategori.
 
----
+![detailEdit](/images/detaljert.png)
 
 ## Scope 1
 
