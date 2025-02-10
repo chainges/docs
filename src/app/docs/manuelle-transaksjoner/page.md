@@ -18,68 +18,23 @@ I Scope321 kan man føre transaksjoner manuelt også. Har man veldig få transak
 ## Hvordan legge til transaksjoner
 
 Under riktig Scope finner du en 'Legg til' knapp øverst til venstre. Trykk på den og følgende dialog vil åpne seg.
-![Legg til transaksjon](https://firebasestorage.googleapis.com/v0/b/scope321-docs-assets/o/add-transaction.png?alt=media&token=4c5ec9df-f608-411d-9610-b24d37c8b701)
+![Legg til transaksjon](/images/add_new.png)
 Her har du 3 valg:
 
 1. Utslippsregistrering
 2. Kjøp med kjent leverandør og beløp
 3. Transaksjon med kjent utslipp
 
-### Et pariatur ab quas
+### Utslippsregistrering
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+Vil du registrere en aktivitetsbasert utslippsberegning, så velg dette alternativet. Her vil du få muligheten til å legge inn detaljer om utslippet inn i tilhørende _Scope_. Se [aktivitetsbasert føring](/docs/detaljert-foering/) for mer informasjon om hvordan du kan føre en aktivitetsbasert utslippsberegning.
 
-```js
-/** @type {import('@tailwindlabs/lorem').ipsum} */
-export default {
-  lorem: 'ipsum',
-  dolor: ['sit', 'amet', 'consectetur'],
-  adipiscing: {
-    elit: true,
-  },
-}
-```
+### Kjøp med kjent leverandør og beløp
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
+Dette er kostnadsbasert utslippsberegning. Dette skal kun benyttes om man ikke har lastet inn regnskapsdata eller slettet en transaksjon ved et uhell eller andre hjørnetilfeller.
+![New_cost_transaction.png](/images/add_new_known.png) Velg en leverandør og legg inn beløp uten mva. Kategorien vel vanligvis være kategori 1, men det kan også være annet, så gjør en avveiing av kategori. Du har også et valg om det er et produksjonsrelatert kjøp eller ikke. Til slutt setter du statusen.
 
-### Natus aspernatur iste
+### Transaksjon med kjent utslipp
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
-
----
-
-## Quos porro ut molestiae
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
-
-### Voluptatem quas possimus
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
-
-### Id vitae minima
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
-
----
-
-## Vitae laborum maiores
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
-
-### Corporis exercitationem
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
-
-### Reprehenderit magni
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
+Dette er en transaksjon som har et kjent utslipp. Det kan være noe som ikke er ført i regnskapet, men som er registrert i et annet system. Eksempler her er pendling for ansatte, kjente prosessutslipp eller arealbruk. Det bør være en god beregning av utslippet og det bør dokumenteres i rapporten hvordan utslippet er beregnet. Her står du fritt til å føre på hvilket _Scope_ du vil føre transaksjonen på og i hvilken kategori. Velg Scope 1, 2 eller 3 etter hvilket hovedutslippet tilhører.
+![known_emission](/images/known_emission.png)

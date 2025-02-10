@@ -70,6 +70,12 @@ Nedstrømskategoriene dekker utslipp som skjer etter at produktet har forlatt be
 6. Franchisevirksomhet.
 7. Investeringer.
 
+Scope321 fokuserer på oppstrømskategoriene, siden disse er de vi har kontroll over og kan påvirke. Nedstrømskategoriene er mindre kontrollerbare og bør kun ved noen anledninger rapporteres på. Innen finans, for eksempel, er det viktig å rapportere på finansierte utslipp som sier noe viktig om finansinstitusjonens prioriteringer. Se denne bloggartikkelen for mer informasjon om hvorfor det er viktig.
+
+Ellers så mener vi at det kun skal rapporteres på nedstrømskategorier hvis det er en viktig informasjon om klimapåvirkningen bedriftens produkter har hos sluttbruker. Det vil således være om produktet bruker energi i bruksfasen på noen som helst måte og produktets design kan minimere denne energibruken. Gode eksempler er biler og elektriske artikler. Bedriften har og kan ikke ta ansvar for hvordan kunder bruker produktene nedstrøms. En god kilde til mer informasjon er [Principles and Content for Downstream Emissions Disclosures](https://www.hbs.edu/ris/Publication%20Files/24050_a306fe0b-38cf-4474-acae-7071a1b61a2d.pdf/).
+
+Hvis bedriften ønsker å rapportere på vesentlige nedstrømskategorier i henhold til ovennevnte pprinsipper, er det mulig å legge dette til som enkelttransaksjoner hvor det beregnede utslippet legges inn og at det kommenteres i rapporten.
+
 ---
 
 ## Hvorfor er Scope 3 viktig?

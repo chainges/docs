@@ -9,7 +9,7 @@ nextjs:
 ## Redigere en leverandør
 
 Ved å dobbeltklikke på leverandørlinjen vil du få muligheten til å redigere informasjonen om leverandøren. Du vil få et vindu som følger:
-![Supplier](https://cdn.filestackcontent.com/Zm3QgimLSHe1ngFftv2K)
+![Supplier](/images/supplier-edit.png)
 
 Her finner du en del redigeringsmuligheter. Det viktige er søkefeltet, _Nace Kode_ og _Leverandørens co2-intensitet_.
 I **Søkefeltet** kan du forsøke å søke opp selskapet om det ikke var registrert på et organisasjonsnummer i regnskapssystemet. Du kan søke på navn og organisasjonsnummer. Hvis du finner det vil informasjon fra brønnøysundregisteret bli innhentet. _Nace Kode_ blir da hentet og industrien som koden representerer lagres. Leverandøren vil da også få en ny co2-intensitet. Hvis _Nace Kode_ ikke representerer de varer og tjenester som kjøpes fra selskapet kan du velge å sette din egen _Nace Kode_. Du kan søke etter en bestemt Nace kode hvis du vet hilken kode du er ute etter eller en industri på navn som kanskje er lettere. Velg en industri som representerer de varer og tjenester som du handler fra leverandøren. _Leverandørens co2-intensitet_ vil da endres i henhold til den nye koden.

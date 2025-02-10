@@ -53,6 +53,7 @@ Basert på informasjonen i rapporten, her er en oppsummering med konkrete råd t
    - Sikre langsiktige avtaler for å støtte utviklingen av nye karbonfjerningsmetoder og oppskalering av eksisterende teknologier.
 
 4. **Internasjonale standarder og samarbeid**
+
    - Tilpass strategien til eksisterende og kommende internasjonale reguleringer, inkludert Parisavtalen og artikkel 6-rammeverket.
 
 Ved å følge disse rådene kan selskapet både akselerere sin egen overgang til netto-null og bidra til globale klimamål. Ta gjerne kontakt hvis dere vurderer å implementere karbonkreditter i selskapet og være en netto.null bedrift.

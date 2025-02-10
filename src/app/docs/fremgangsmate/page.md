@@ -26,7 +26,7 @@ Alle kolonnene i datatabellene kan brukes som filter og det skal være lett å k
 6. **Totale Utslipp**
 
 Ved å bruke _Status_ kolonnen kan du finne alle leverandører som systemet ikke har noe data på utover det som kommer fra regnskapsystemet. Velg '3' og alle disse vil vises med rødt flagg. Videre kan du sortere _Totale Utslipp_ størst til minst for å se om noen av disse leverandørene har et stort utslipp. Her kan du således redigere de som du mener trenger redigering. Alle de største bør redigeres manuelt.
-![Suppliers](https://cdn.filestackcontent.com/h0KB27hStuGxbELysmMQ)
+![Suppliers](/images/suppliers.png)
 _Leverandørtabellen filtrert og sortert_
 
 Mer om leverandører og hvordan de kan behandles finnes i [Leverandører](../docs/suppliers).
