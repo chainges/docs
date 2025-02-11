@@ -12,7 +12,7 @@ Lær hvordan du lager et klima- og energiregnskap med Scope321. Og ikke nok med 
 
 {% quick-link title="Jobbe med tallene" icon="lightbulb" href="/docs/fremgangsmate" description="Automatikk er vel og bra, men det finnes fortsatt noen grenser for hva som kan gjøres automatisk. Her får du innføring i hvordan du bør kvalitetsikre data i detalj." /%}
 
-{% quick-link title="Scope321 rapport" icon="theming" href="/" description="Lær hvordan du kan lage din egen klima- og enegirapport basert på tallene i systemet." /%}
+{% quick-link title="Scope321 rapport" icon="theming" href="/docs/oversikt" description="Lær hvordan du kan lage din egen klima- og enegirapport basert på tallene i systemet." /%}
 
 {% /quick-links %}
 
@@ -36,6 +36,8 @@ Scope321 tilbyr fullstendig fleksibilitet så du kan sørge for at tallene blir 
 ### Rapport
 
 Om ikke dashbordet og data der er nok kan du også lage en rapport til å vise til. Da velger du 'Rapport' i sidemenyen. Her laster en standard rapport med dine data. Last opp en logo og et bilde av ansvarlig person. Her kan/bør du redigere teksten. Det gjør du direkte på siden ved å åpne redigeringsverktøyet. Du står selv fritt til å forklare mål og utslipp med figurer, tabeller og bilder. Når du er fornøyd med rapporten er det bare å skrive den ut(Høyre klikk -> 'skriv ut').
+
+I utskriftsdialogen anbefaler vi å velge bort "_topp- og bunnskrift_". Sørg for a "_bakgrunnsgrafikk_" er merket på. Disse finner du under "_Flere innstillinger_" i utskriftsdialogen.
 
 ---
 

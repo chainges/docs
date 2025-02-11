@@ -12,64 +12,78 @@ Aktivitetsdata kan brukes for å få et mer detaljert og korrekt resultat. Dette
 
 ## Scope 1
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
+Hvis du redigerer en transaksjon som er merket som _Scope 1_ vil du ha følgende muligheter:
 
-### Utslipp fra forbrenning
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-```js
-/** @type {import('@tailwindlabs/lorem').ipsum} */
-export default {
-  lorem: 'ipsum',
-  dolor: ['sit', 'amet', 'consectetur'],
-  adipiscing: {
-    elit: true,
-  },
-}
-```
-
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
-
-### Utslipp fra transport
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
-
----
+- **Utslipp fra forbrenning**
+  - Her er det snakk om forbrenning av fossile brennstoff i produksjon.
+- **Utslipp fra kjøretøy**
+  - Her er det snakk om utslipp fra kjøretøy som eies og/eller kontrolleres av virksomheten.
+- **Prosess og flyktige utslipp**
+  - Her er det snakk om utslipp fra prosesser og flyktige stoffer i produksjon so for eksempel lekasjer fra kjølesyster eller kjemiske reaksjoner.
+- **Andre scope 1 utslipp**
+  - Annet som defineres som _Scope 1_
 
 ## Scope 2
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
+Hvis du redigerer en transaksjon som er merket som _Scope 2_ vil du ha følgende muligheter:
 
-### Utslipp fra elektrisitet
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
-
-### Id vitae minima
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
-
----
+- **Utslipp fra elektrisitet**
+  - Dette er rent strømforbruk i produksjon, men også til lys og varme. Du finner gjerne antall kilowatt-timer (kWh) i fakturaen.
+- **Utslipp fra varme**
+  - Dette er varme (og kjøling) som brukes i bedriften. Det er stort sett fjernvarme det er snakk om og vi har en standard faktor for dette som du kan endre dersom du har mer spesifikk informasjon om utslippet per KWh. Du finner gjerne antall kilowatt-timer (kWh) i fakturaen.
+- **Utslipp fra elektriske kjøretøy**
+  - Dette er utslipp fra elektriske kjøretøy som eies og/eller kontrolleres av virksomheten. Ofte er denne strømmen inkludert i en samlet faktura for elektrisitet da det som regel lades biler fra bedriftens målepunkt. Det er ikke spesielt viktig å skille på dette, men en mulighet hvis man vil være nøye og ønsker slik spesifikasjon.
+- **Andre scope 2 utslipp**
+  - Annet som defineres som _Scope 2_
 
 ## Scope 3
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
+Hvis du redigerer en transaksjon som er merket som _Scope 3_ vil du ha følgende muligheter:
 
-### Corporis exercitationem
+- **Innkjøp av varer og tjenester**
+- **Kapitalvarer**
+- **Drivstoff- og energirelaterte utgifter**
+- **Oppstrøms transport og distribusjon**
+- **Avfall**
+- **Forretningsreiser**
+- **Pendling for ansatte**
+- **Oppstrøms leasing**
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+#### Kategori 1 - Innkjøp av varer og tjenester
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
+Dette er gjerne den største kategorien. Det er snakk om alle varer som kjøpes inn. Det er alt fra ferdigvarer, råvarer, tjenester og alt annet som kjøpes for å få produksjonen til å fungere. Hvilken konto det er ført på i regnskapet sier oss noe om hva slags varer det er snakk om. Varer i 4000-serien er gjerne varer til produksjon, mens alle andre er varer å tjenester til støtteaktiviteter.
 
-### Kategori 8 - Oppstrøms leasing
+Du kan her velge mellom to forskjellige måter å beregne utslippene på. Du kan enten velge å bruke _Basis Input_ eller _Materialer_. Det er samme beregningsmåte, men hvis du ønsker å holde kontroll på mengden kan du velge å bruke _Materialer_ som også tar med mengden. Dette kan være nyttig om man vet utslippsfaktoren per kilo og har totalvekten på leveransen.
 
-Det er stort sett lei av maskiner og lokaler som kommer inn under denne kategorien. Lokaler er ofte en stor utgift og viktig kilde til utslipp.
+#### Kategori 2 - Kapitalvarer
+
+Det er snakk om varer som er kjøpt for å brukes i produksjonen. Dette kan være maskiner som avskrives over tid og derfor defineres som kapitalvarer.
+
+#### Kategori 3 - Drivstoff- og energirelaterte utgifter
+
+Denne kategorien er utslipp relatert til andre _Scope 1_ eller _Scope 2_ utslipp. Dette er det man kaller WTT(Well-To-Tank). Det er verdikjedeutslipp for energi og drivstoff. Det er rett og slett utslipp fra oljeproduksjon og strømdistribusjon. Disse utslippene beregnes automatisk når primærutslippene registreres så her kan du ikke legge inn noe spesielt. Du kan ikke registrere utslipp for dette her, men du kan legge til en transaksjon med kjent utslipp og velge denne kategorien om du vil.
+
+#### Kategori 4 - Oppstrøms transport og distribusjon
+
+Denne kategorien omfatter utslipp knyttet til transport og distribusjon(inkludert lagring) av produkter kjøpt av det rapporterende selskapet i perioden det rapporteres for. Transport mellom selskapets leverandører og dets egne operasjoner (i kjøretøy og fasiliteter som ikke eies eller kontrolleres av det rapporterende selskapet).
+
+Transport til kunder omfattes av nedstrømskategori 9. Her er det et definisjonsspørsmål om leveringen til kunden, som betales av rapporterende selskap, er en del av produktet. Hvis det er en tjeneste som viderefaktureres direkte til kunden, og hvor kunden kan velge bør dette sees på som nedstrøms transport. Hvis transporten til kunden er en del av produktet ansees 'gate'(grensesnittet mellom leverandør og kunde) der hvor varen overleveres. Et eksempel kan være varer levert til byggeplass. Hvis man har full kontroll over denne transporten vil vi anbefale å inkludere dette her under oppstrøms transport. Men det kan være nyttig å skille på dette selv i klimaregnskapet og anse det som nedstrøms transport. Hvis det skal rapporteres under kategori 9 må transaksjoner flyttes fra denne kategorien til kategori 9. Merk transaksjonen(e) - Høyreklikk på transaksjonen og velg kategori 9 under _Scope 3 kategori_-listen.
+
+#### Kategori 5 - Avfall
+
+Avfall og avfallshåndtering faller inn under denne kategorien. Hvis avfall er vesentlig i henhold til vesentlighetsanalysen eller det er store mengder anbefaler vi å ta en prat med din avfallshåndterer. Det er store sprikende variasjoner mellom faktorer som brukes for forskjellige avfallskategorier. Scope321 har en faktor for avfallshåndtering generelt som kan brukes for mindre mengder. For større mengder har vi faktorer for de viktigste. Om avfall går til gjenvinning, resirkulering eller deponering så vil det være store forskjeller. Så det kan det være lurt å ta en prat med avfallshåndleren for å få en mer nøyaktig beregning. Mange har blitt flinke til dette nå.
+
+#### Kategori 6 - Forretningsreiser
+
+Her er det snakk om reiser i jobb. Alt som går på en reiseregning kommer inn under denne kategorien og reiseutgifter betalt direkte av selskapet. Flyreise, hotell, mat, taxi, buss, tog, båt og bilreiser er eksempler her.
+
+#### Kategori 7 - Pendling for ansatte
+
+Her er det snakk om reiser utenfor jobb, men som likevel er jobbrelaterte. Ansattes pendling til åg fra jobb faller inn under bedriftens klimapåvirkning siden det er utslipp som er relatert til bedriftens leveranse. Pendling er vanligvis ikke med i bedriftens finansregnskap og således ingen transaksjoner i SAF-T. Unntaket er om det utbetales en kompensasjon til ansatte for pendling. I så fall må man sikre at det ikke blir dobbelttelling.
+
+#### Kategori 8 - Oppstrøms leasing
+
+Det er stort sett leie av maskiner og lokaler som kommer inn under denne kategorien. Lokaler er ofte en stor utgift og viktig kilde til utslipp.
 
 **Maskiner**
 
